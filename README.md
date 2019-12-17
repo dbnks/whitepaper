@@ -1,7 +1,7 @@
 # dBnk Whitepaper
 #### ***Authored by Jared Rice Sr.***
 #### ***Created On: October 22nd, 2019***
-#### ***Updated On: December 17, 2019***
+#### ***Updated On: December 17th, 2019***
 
 ## Abstract
 Consumers and everyday users of the web simply don't understand cryptocurrencies, nor are there any solutions presently available that allow for consumers to take an easy dive into the crypto world. Banking systems, banks and banking software were created to give users an easily understandable way of managing their portfolio of government-issued currencies. This ultimately gives government-issued currencies a usability edge over cryptocurrencies for the typical internet user who lacks a technical skill set. 
